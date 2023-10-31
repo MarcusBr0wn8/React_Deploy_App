@@ -7,7 +7,7 @@ export const RecipeListPage = () => {
 
   return (
     <Center h="100vh" flexDir="column">
-      <Heading>Your Recipe App</Heading>
+      <Heading>My Recipe App</Heading>
     </Center>
   );
 };
