@@ -1,5 +1,5 @@
-import { Center, Heading } from '@chakra-ui/react';
-import { data } from '../utils/data';
+import { Center, Heading } from "@chakra-ui/react";
+import { data } from "../utils/data";
 
 export const RecipeListPage = () => {
   // You can play around with the console log, but ultimately remove it once you are done
